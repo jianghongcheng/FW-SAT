@@ -43,10 +43,6 @@ python predict.py
 python train.py 
 ```
 
-## Trained Models
-
-- Refer to `net_best_8.pth`for X8 SR
-- Refer to `net_best_16.pth`for X16 SR
 
 ## Contact
 If you have any question, please email hjq44@mail.umkc.edu 
