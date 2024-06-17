@@ -2,7 +2,7 @@ resume_file : None
 batch_size : 2
 end_epoch : 50
 init_lr : '1e-4'
-outf : './exp/baseline_tcfs/x16/24blocks/'
+outf : './exp/'
 gpu_id : '0'
 patch_size : 32
 
