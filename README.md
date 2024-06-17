@@ -1,4 +1,4 @@
-# FAW_SAT 
+# FAW-SAT 
 
 ### Flexible Window-based Self-attention Transformer in Thermal Image Super-Resolution [[Paper Link]](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Jiang_Flexible_Window-based_Self-attention_Transformer_in_Thermal_Image_Super-Resolution_CVPRW_2024_paper.html)
 [Hongcheng Jiang](https://github.com/jianghongcheng/), [Zhiqiang Chen](https://sse.umkc.edu/profiles/zhiqiang-chen.html)
