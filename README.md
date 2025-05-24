@@ -33,17 +33,17 @@ We propose **FW-SAT**, a Flexible Window-based Self-attention Transformer for th
 
 **×8 Upscaling:**
 - FW-SAT achieves **27.80 dB / 0.8815** in PSNR/SSIM, outperforming all competitors:
-  - **+2.82 dB / +0.0645** vs. SwinIR
-  - **+1.94 dB / +0.0385** vs. HAN
-  - **+2.21 dB / +0.0410** vs. GRL
-  - **+2.14 dB / +0.0421** vs. EDSR
+  - **+2.82 dB / +0.0645** (**+11.29%**) vs. SwinIR
+  - **+1.94 dB / +0.0385** (**+7.50%**) vs. HAN
+  - **+2.21 dB / +0.0410** (**+8.64%**) vs. GRL
+  - **+2.14 dB / +0.0421** (**+8.34%**) vs. EDSR
 
 **×16 Upscaling:**
 - FW-SAT achieves **24.61 dB / 0.8116**, again setting a new benchmark:
-  - **+3.39 dB / +0.0839** vs. SwinIR
-  - **+1.92 dB / +0.0525** vs. HAN
-  - **+2.23 dB / +0.0616** vs. GRL
-  - **+2.02 dB / +0.0554** vs. EDSR
+  - **+3.39 dB / +0.0839** (**+15.97%**) vs. SwinIR
+  - **+1.92 dB / +0.0525** (**+8.46%**) vs. HAN
+  - **+2.23 dB / +0.0616** (**+9.96%**) vs. GRL
+  - **+2.02 dB / +0.0554** (**+8.94%**) vs. EDSR
 
 These consistent improvements across scales and metrics validate FW-SAT’s strong generalization and superior spatial-spectral learning capabilities.
 
