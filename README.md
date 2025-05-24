@@ -53,7 +53,6 @@ These consistent improvements across scales and metrics validate FW-SAT’s stro
 
 ## 🧠 Network Architecture
 
-<p align="center"><strong>Network Architecture of FAW-SAT</strong></p>
 <p align="center">
   <img src="https://github.com/jianghongcheng/FW-SAT/blob/main/Figures/Network.png" width="800"/>
 </p>
@@ -63,7 +62,6 @@ These consistent improvements across scales and metrics validate FW-SAT’s stro
 
 ## 🧩 Flexible Window Attention Module
 
-<p align="center"><strong>Visualization of the Flexible Window-based Self-Attention Module</strong></p>
 <p align="center">
   <img src="https://github.com/jianghongcheng/FW-SAT/blob/main/Figures/Flexible_Window_Att.png" width="800"/>
 </p>
