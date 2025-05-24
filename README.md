@@ -83,7 +83,6 @@ These consistent improvements across scales and metrics validate FW-SAT’s stro
 
 
 
----
 
 ## 📊 Quantitative Results
 
@@ -196,3 +195,19 @@ If you have any questions, feedback, or collaboration ideas, feel free to reach 
 - 💻 Website: [jianghongcheng.github.io](https://jianghongcheng.github.io/)
 - 📧 Email: [hjq44@mail.umkc.edu](mailto:hjq44@mail.umkc.edu)
 - 🏫 Affiliation: University of Missouri–Kansas City (UMKC)
+
+
+## 📚 Citation
+
+If you find this work helpful in your research, please cite:
+
+```bibtex
+@InProceedings{Jiang_2024_CVPR,
+    author    = {Jiang, Hongcheng and Chen, Zhiqiang},
+    title     = {Flexible Window-based Self-attention Transformer in Thermal Image Super-Resolution},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {3076--3085}
+}
+```
