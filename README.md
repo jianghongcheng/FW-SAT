@@ -9,6 +9,16 @@
 
 ---
 
+
+
+---
+
+## 🧠 Network Architecture
+
+<p align="center"><strong>Network Architecture of FAW-SAT</strong></p>
+<p align="center">
+  <img src="https://github.com/jianghongcheng/FW-SAT/blob/main/Figures/Network.png" width="800"/>
+</p>
 ## 📚 Citation
 
 If you find this work helpful in your research, please cite:
