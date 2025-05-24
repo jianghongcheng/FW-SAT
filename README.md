@@ -23,19 +23,30 @@ Thermal imaging plays a crucial role in various applications such as surveillanc
 By combining these mechanisms, FAW-SAT effectively reconstructs high-resolution thermal images from low-resolution inputs. The model has demonstrated superior performance in both qualitative and quantitative evaluations, surpassing state-of-the-art techniques in the PBVS-2024 Thermal Image Super-Resolution Challenge (GTISR) - Track2.
 
 
+---
+
 ## 📈 Performance Gains
 
 We propose **FW-SAT**, a Flexible Window-based Self-attention Transformer for thermal image super-resolution.
 
-✅ **Results on Validation Set**  
-- At **×8 upscaling**:
-  - **PSNR**: 27.80 dB (**+1.94 dB**, +7.5% over SwinIR)
-  - **SSIM**: 0.8815 (**+0.0645**, +7.9% over SwinIR)
-- At **×16 upscaling**:
-  - **PSNR**: 24.61 dB (**+2.02 dB**, +9.5% over SwinIR)
-  - **SSIM**: 0.8116 (**+0.0839**, +11.5% over SwinIR)
+✅ **Results on Validation Set**
 
-FW-SAT demonstrates significant improvements across both PSNR and SSIM at high upscaling factors, surpassing all compared state-of-the-art methods.
+**×8 Upscaling:**
+- FW-SAT achieves **27.80 dB / 0.8815** in PSNR/SSIM, outperforming all competitors:
+  - **+1.94 dB / +0.0645** vs. SwinIR
+  - **+1.21 dB / +0.0385** vs. HAN
+  - **+2.14 dB / +0.0421** vs. GRL
+  - **+2.14 dB / +0.0421** vs. EDSR
+
+**×16 Upscaling:**
+- FW-SAT achieves **24.61 dB / 0.8116**, again setting a new benchmark:
+  - **+3.39 dB / +0.0839** vs. SwinIR
+  - **+1.92 dB / +0.0525** vs. HAN
+  - **+2.23 dB / +0.0616** vs. GRL
+  - **+2.02 dB / +0.0554** vs. EDSR
+
+These consistent improvements across scales and metrics validate FW-SAT’s strong generalization and superior spatial-spectral learning capabilities.
+
 
 
 ---
